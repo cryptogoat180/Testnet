@@ -1,0 +1,2 @@
+# Testnet
+for testnet purposes
